@@ -1,4 +1,6 @@
-### Hi there 👋
+*Hi there* 👋🏻 it's **/me** **`nmbr73`**
+
+[![nmbr73](https://img.shields.io/badge/-nmbr73-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/nmbr73/videos "Find me on YouTube")
 
 <!--
 **nmbr73/nmbr73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
